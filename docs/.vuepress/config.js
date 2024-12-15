@@ -14,7 +14,7 @@ export default defineUserConfig({
     // 添加您的部署域名
     hostname: 'https://tzzl.site',
     // your git repo url
-    docsRepo: '',
+    docsRepo: 'https://github.com/tzzl3035/tzzl-site-blog',
     docsDir: 'docs',
 
     social: [
