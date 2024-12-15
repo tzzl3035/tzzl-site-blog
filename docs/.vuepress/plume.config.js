@@ -22,7 +22,7 @@ export default defineThemeConfig({
   navbar,
   notes,
   social: [
-    { icon: 'github', link: '/' },
+    { icon: 'github', link: 'https://github.com/tzzl3035/tzzl-site-blog' },
   ],
 
 })

@@ -17,10 +17,6 @@ export default defineUserConfig({
     docsRepo: 'https://github.com/tzzl3035/tzzl-site-blog',
     docsDir: 'docs',
 
-    social: [
-      {icon: 'github', link: 'https://github.com/tzzl3035'}
-    ],
-
     plugins: {
       /**
        * Shiki 代码高亮
