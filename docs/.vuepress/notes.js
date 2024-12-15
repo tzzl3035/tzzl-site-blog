@@ -3,31 +3,31 @@ import { defineNoteConfig, defineNotesConfig } from 'vuepress-theme-plume'
 const dp = defineNoteConfig({
   dir: '动态规划',
   link: '/dp',
-  sidebar: [''],
+  sidebar: 'auto',
 })
 
 const graph = defineNoteConfig({
   dir: '图论',
   link: '/graph',
-  sidebar: [''],
+  sidebar: 'auto',
 })
 
 const maths = defineNoteConfig({
   dir: '数学',
   link: '/maths',
-  sidebar: [''],
+  sidebar: 'auto',
 })
 
 const data = defineNoteConfig({
   dir: '数据结构',
   link: '/data',
-  sidebar: [''],
+  sidebar: 'auto',
 })
 
 const others = defineNoteConfig({
   dir: '杂项',
   link: '/others',
-  sidebar: [''],
+  sidebar: 'auto',
 })
 
 export const notes = defineNotesConfig({
