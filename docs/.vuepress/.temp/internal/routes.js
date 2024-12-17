@@ -1,4 +1,4 @@
-export const redirects = JSON.parse("{\"/%E6%9D%82%E9%A1%B9/markdown.html\":\"/article/2usip6o0/\",\"/%E6%9D%82%E9%A1%B9/%E4%BB%8B%E7%BB%8D.html\":\"/article/eqmcpm7m/\",\"/notes/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/\":\"/dp/\",\"/notes/%E5%9B%BE%E8%AE%BA/\":\"/graph/\",\"/notes/%E6%95%B0%E5%AD%A6/\":\"/maths/\",\"/notes/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/\":\"/data/\",\"/notes/%E6%9D%82%E9%A1%B9/\":\"/others/\",\"/notes/%E6%9D%82%E9%A1%B9/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.html\":\"/others/o9uyfhib/\"}")
+export const redirects = JSON.parse("{\"/%E6%9D%82%E9%A1%B9/markdown.html\":\"/article/2usip6o0/\",\"/%E6%9D%82%E9%A1%B9/%E4%BB%8B%E7%BB%8D.html\":\"/article/eqmcpm7m/\",\"/notes/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/\":\"/dp/\",\"/notes/%E5%9B%BE%E8%AE%BA/\":\"/graph/\",\"/notes/%E6%95%B0%E5%AD%A6/\":\"/maths/\",\"/notes/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/\":\"/data/\",\"/notes/%E6%9D%82%E9%A1%B9/\":\"/others/\",\"/notes/%E6%9D%82%E9%A1%B9/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.html\":\"/others/o9uyfhib/\",\"/notes/%E6%9D%82%E9%A1%B9/%E5%AD%97%E5%85%B8%E6%A0%91.html\":\"/others/qmyu3xvm/\"}")
 
 export const routes = Object.fromEntries([
   ["/", { loader: () => import(/* webpackChunkName: "index.html" */"D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/pages/index.html.js"), meta: {"title":""} }],
@@ -15,6 +15,7 @@ export const routes = Object.fromEntries([
   ["/blog/tags/", { loader: () => import(/* webpackChunkName: "blog_tags_index.html" */"D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/pages/blog/tags/index.html.js"), meta: {"title":"标签"} }],
   ["/blog/archives/", { loader: () => import(/* webpackChunkName: "blog_archives_index.html" */"D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/pages/blog/archives/index.html.js"), meta: {"title":"归档"} }],
   ["/blog/categories/", { loader: () => import(/* webpackChunkName: "blog_categories_index.html" */"D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/pages/blog/categories/index.html.js"), meta: {"title":"分类"} }],
+  ["/others/qmyu3xvm/", { loader: () => import(/* webpackChunkName: "others_qmyu3xvm_index.html" */"D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/pages/others/qmyu3xvm/index.html.js"), meta: {"title":"字典树"} }],
 ]);
 
 if (import.meta.webpackHot) {

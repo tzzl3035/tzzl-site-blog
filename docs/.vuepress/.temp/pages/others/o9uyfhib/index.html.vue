@@ -1,7 +1,7 @@
 <template><div><h3 id="简介" tabindex="-1"><a class="header-anchor" href="#简介"><span>简介</span></a></h3>
-<p>滑动窗口是一种基于双指针的算法，用于解决数组中子数组相关问题。</p>
+<p>滑动窗口是一种基于<mark>双指针</mark>的算法，用于解决数组中子数组相关问题。</p>
 <h3 id="基本思想" tabindex="-1"><a class="header-anchor" href="#基本思想"><span>基本思想</span></a></h3>
-<p>维护一个窗口，且在每次滑动窗口时更改元素，以解决特定类型问题。</p>
+<p>维护一个窗口，且在<mark>每次滑动窗口时更改元素</mark>，以解决特定类型问题。</p>
 <h3 id="可用的例题" tabindex="-1"><a class="header-anchor" href="#可用的例题"><span>可用的例题:</span></a></h3>
 <ul>
 <li><a href="https://atcoder.jp/contests/abc384/tasks/abc384_d" target="_blank" rel="noopener noreferrer">Repeated Sequence</a></li>
