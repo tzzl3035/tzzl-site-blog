@@ -17,6 +17,12 @@ export default defineUserConfig({
     docsRepo: 'https://github.com/tzzl3035/tzzl-site-blog',
     docsDir: 'docs',
 
+    encrypt: {
+      rules: {
+        '/article/6u4ze29u/': 'NC20061226',
+      },
+    },
+
     plugins: {
       /**
        * Shiki 代码高亮
