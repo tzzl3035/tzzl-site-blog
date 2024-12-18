@@ -1,14 +1,19 @@
-.vp-tag-qkcv {
+.vp-tag-udai {
   --vp-tag-color: #946300;
   --vp-tag-hover-color: #915930;
   --vp-tag-bg: rgba(234, 179, 8, 0.14);
 }
-.vp-tag-lwoj {
+.vp-tag-jq6r {
   --vp-tag-color: #d5393e;
   --vp-tag-hover-color: #b8272c;
   --vp-tag-bg: rgba(244, 63, 94, 0.14);
 }
-.vp-tag-a5vk {
+.vp-tag-5mbr {
+  --vp-tag-color: #3a5ccc;
+  --vp-tag-hover-color: #3451b2;
+  --vp-tag-bg: rgba(100, 108, 255, 0.14);
+}
+.vp-tag-3vmv {
   --vp-tag-color: #cc9933;
   --vp-tag-hover-color: #be7f3f;
   --vp-tag-bg: rgba(161, 107, 54, 0.2);
