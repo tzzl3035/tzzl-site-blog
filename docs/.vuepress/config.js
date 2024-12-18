@@ -19,7 +19,7 @@ export default defineUserConfig({
 
     encrypt: {
       rules: {
-        '/article/6u4ze29u/': 'NC20061226',
+        '/article/6u4ze29u/': 'fuckCCF114514NC20061226_i0wu0593',
       },
     },
 
