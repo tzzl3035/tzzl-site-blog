@@ -1,7 +1,7 @@
 ---
 title: Floyd
 createTime: 2024/12/18 23:08:41
-permalink: /graph/fc72ifbr/
+permalink: /article/fc72ifbr/
 tags: 
   - 最短路
 ---

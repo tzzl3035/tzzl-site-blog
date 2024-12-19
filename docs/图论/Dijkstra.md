@@ -1,7 +1,7 @@
 ---
 title: Dijkstra
 createTime: 2024/12/17 21:46:55
-permalink: /graph/ex39tzqc/
+permalink: /article/ex39tzqc/
 tags:
   - 最短路
 ---
