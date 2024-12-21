@@ -8,7 +8,7 @@ import * as clientConfig6 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.
 import * as clientConfig7 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/md-enhance/config.js'
 import * as clientConfig8 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/md-power/config.js'
 import * as clientConfig9 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/markdown-math/config.js'
-import * as clientConfig10 from 'D:/documents/Langston_code/tzzl-site-blog/node_modules/.pnpm/vuepress-theme-plume@1.0.0-rc.120_@algolia+client-search@5.18.0_markdown-it@14.1.0_sass-embed_q4cfn6i4rgtjnk6v25lidptm7y/node_modules/vuepress-theme-plume/lib/client/config.js'
+import * as clientConfig10 from 'D:/documents/Langston_code/tzzl-site-blog/node_modules/.pnpm/vuepress-theme-plume@1.0.0-rc.120_@algolia+client-search@5.18.0_artalk@2.9.1_marked@14.1.4__m_27yqcaah2ki5ue432ckw75mftm/node_modules/vuepress-theme-plume/lib/client/config.js'
 import * as clientConfig11 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/client.js'
 
 export const clientConfigs = [

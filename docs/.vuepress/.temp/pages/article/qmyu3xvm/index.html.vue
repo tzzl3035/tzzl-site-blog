@@ -1,7 +1,7 @@
 <template><div><h3 id="简介" tabindex="-1"><a class="header-anchor" href="#简介"><span>简介</span></a></h3>
 <p>又称<mark>Trie树</mark>，顾名思义，长得像字典的树。</p>
 <h3 id="基本思想" tabindex="-1"><a class="header-anchor" href="#基本思想"><span>基本思想</span></a></h3>
-<p>维护一棵<mark>带有边权的树</mark>，已解决<mark>字符串</mark>相关问题。</p>
+<p>维护一棵<mark>带有边权的树</mark>，以解决<mark>字符串</mark>相关问题。</p>
 <h3 id="例题" tabindex="-1"><a class="header-anchor" href="#例题"><span>例题</span></a></h3>
 <p><a href="https://www.luogu.com.cn/problem/P8306" target="_blank" rel="noopener noreferrer">【模板】字典树</a></p>
 <h3 id="模板代码" tabindex="-1"><a class="header-anchor" href="#模板代码"><span>模板代码</span></a></h3>
