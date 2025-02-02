@@ -1,5 +1,5 @@
 import './articleTagColors.css'
-export const articleTagColors = {"最短路":"5514","并查集":"ons7","生成树":"3i0i","数论":"i4h1","栈":"wcgr","树状数组":"0yyn","倍增":"q9cu","字符串":"4lyb","双指针":"4lyb","离散化":"i4h1","markdown":"gw8d","剪贴板":"kk7j","ABC":"wx5l","递推":"wx5l"}
+export const articleTagColors = {"数论":"liv3","最短路":"1hp8","并查集":"uzkx","生成树":"5nru","栈":"09ze","树状数组":"o79g","倍增":"9gqa","字符串":"dwuh","双指针":"dwuh","离散化":"liv3","markdown":"jscm","剪贴板":"pe3g","ABC":"oy6o","递推":"oy6o"}
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()
