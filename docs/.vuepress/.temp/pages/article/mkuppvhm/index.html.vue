@@ -1,8 +1,8 @@
 <template><div><h3 id="定义" tabindex="-1"><a class="header-anchor" href="#定义"><span>定义</span></a></h3>
 <p>笛卡尔树是一棵二叉树，满足:</p>
 <ol>
-<li>每个节点的键值满足二叉搜索树，即中序遍历后严格递增；</li>
-<li>每个节点的权值满足小根堆。</li>
+<li>每个节点的<mark>键值满足二叉搜索树</mark>，即中序遍历后严格递增；</li>
+<li>每个节点的<mark>权值满足小根堆</mark>。</li>
 </ol>
 <h3 id="建树例题" tabindex="-1"><a class="header-anchor" href="#建树例题"><span>建树例题</span></a></h3>
 <p><a href="https://www.luogu.com.cn/problem/P5854" target="_blank" rel="noopener noreferrer">【模板】笛卡尔树</a></p>
