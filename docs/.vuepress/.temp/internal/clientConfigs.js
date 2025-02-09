@@ -8,8 +8,9 @@ import * as clientConfig6 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.
 import * as clientConfig7 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/md-enhance/config.js'
 import * as clientConfig8 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/md-power/config.js'
 import * as clientConfig9 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/.temp/markdown-math/config.js'
-import * as clientConfig10 from 'D:/documents/Langston_code/tzzl-site-blog/node_modules/.pnpm/vuepress-theme-plume@1.0.0-rc.120_@algolia+client-search@5.18.0_artalk@2.9.1_marked@14.1.4__m_27yqcaah2ki5ue432ckw75mftm/node_modules/vuepress-theme-plume/lib/client/config.js'
-import * as clientConfig11 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/client.js'
+import * as clientConfig10 from 'D:/documents/Langston_code/tzzl-site-blog/node_modules/.pnpm/@vuepress+plugin-comment@2.0.0-rc.63_artalk@2.9.1_marked@14.1.4__typescript@5.7.2_vuepress@2._m23bq6eofuzfulvbwslq4rd6za/node_modules/@vuepress/plugin-comment/lib/client/config.js'
+import * as clientConfig11 from 'D:/documents/Langston_code/tzzl-site-blog/node_modules/.pnpm/vuepress-theme-plume@1.0.0-rc.120_@algolia+client-search@5.18.0_artalk@2.9.1_marked@14.1.4__m_27yqcaah2ki5ue432ckw75mftm/node_modules/vuepress-theme-plume/lib/client/config.js'
+import * as clientConfig12 from 'D:/documents/Langston_code/tzzl-site-blog/docs/.vuepress/client.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -24,4 +25,5 @@ export const clientConfigs = [
   clientConfig9,
   clientConfig10,
   clientConfig11,
+  clientConfig12,
 ].map((m) => m.default).filter(Boolean)

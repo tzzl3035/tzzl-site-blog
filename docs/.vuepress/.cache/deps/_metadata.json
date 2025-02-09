@@ -1,49 +1,49 @@
 {
-  "hash": "cac58bb8",
-  "configHash": "f94ed746",
+  "hash": "014fed1b",
+  "configHash": "ebf1be13",
   "lockfileHash": "e6ee8923",
-  "browserHash": "8aeb2ebf",
+  "browserHash": "c37d77ce",
   "optimized": {
     "mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
       "file": "mark__js_src_vanilla__js.js",
-      "fileHash": "97a3103d",
+      "fileHash": "446222c6",
       "needsInterop": false
     },
     "@vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/.pnpm/@vueuse+integrations@12.0.0_focus-trap@7.6.2_typescript@5.7.2/node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "8f18f5d9",
+      "fileHash": "4dc6140d",
       "needsInterop": false
     },
     "minisearch": {
       "src": "../../../../node_modules/.pnpm/minisearch@7.1.1/node_modules/minisearch/dist/es/index.js",
       "file": "minisearch.js",
-      "fileHash": "cd869e29",
+      "fileHash": "692c0961",
       "needsInterop": false
     },
     "@vue/devtools-api": {
       "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.6.8/node_modules/@vue/devtools-api/dist/index.js",
       "file": "@vue_devtools-api.js",
-      "fileHash": "65af96df",
+      "fileHash": "ce5a44dd",
       "needsInterop": false
     },
     "@vuepress/shared": {
       "src": "../../../../node_modules/.pnpm/@vuepress+shared@2.0.0-rc.18/node_modules/@vuepress/shared/dist/index.js",
       "file": "@vuepress_shared.js",
-      "fileHash": "102f0315",
+      "fileHash": "2213f1dc",
       "needsInterop": false
     },
     "vue": {
       "src": "../../../../node_modules/.pnpm/vue@3.5.13_typescript@5.7.2/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "745239bc",
+      "fileHash": "d15cdb32",
       "needsInterop": false
     },
     "vue-router": {
       "src": "../../../../node_modules/.pnpm/vue-router@4.5.0_vue@3.5.13_typescript@5.7.2_/node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "file": "vue-router.js",
-      "fileHash": "e1aa9d98",
+      "fileHash": "0b0afd4b",
       "needsInterop": false
     }
   },

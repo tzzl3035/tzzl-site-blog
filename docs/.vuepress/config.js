@@ -31,7 +31,7 @@ export default defineUserConfig({
        */
       shiki: {
            // 强烈建议预设代码块高亮语言，插件默认加载所有语言会产生不必要的时间开销
-        languages: ['shell', 'bash', 'cpp'],
+      //   languages: ['shell', 'bash', 'cpp'],
       },
 
       /**
@@ -73,16 +73,17 @@ export default defineUserConfig({
        * 评论 comments
        * @see https://theme-plume.vuejs.press/guide/features/comments/
        */
-      // comment: {
-      //   provider: '', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
-      //   comment: true,
-      //   repo: '',
-      //   repoId: '',
-      //   categoryId: '',
+      comment: {
+         provider: 'Giscus', // "Artalk" | "Giscus" | "Twikoo" | "Waline"
+         comment: true,
+         repo: 'tzzl3035/tzzl-site-chat',
+         repoId: 'R_kgDON2mmIQ',
+         category: 'General',
+         categoryId: 'DIC_kwDON2mmIc4CmymF',
       //   mapping: 'pathname',
       //   reactionsEnabled: true,
       //   inputPosition: 'top',
-      // },
+      },
     },
   }),
 })
