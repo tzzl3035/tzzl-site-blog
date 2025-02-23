@@ -6,6 +6,26 @@ createTime: 2024/12/15 11:30:10
 permalink: /article/2usip6o0/
 ---
 
+```cpp
+#include <bits/stdc++.h>
+
+using u32 = unsigned int;
+using i64 = long long;
+using u64 = unsigned long long;
+using f64 = double;
+using f80 = long double;
+using pii = std::pair<int, int>;
+using pll = std::pair<i64, i64>;
+
+int main() {
+  std::ios::sync_with_stdio(0);
+  std::cin.tie(nullptr);
+
+
+
+}
+```
+
 ## 标题 2
 
 ### 标题 3
