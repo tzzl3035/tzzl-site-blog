@@ -20,7 +20,6 @@ export default defineUserConfig({
     encrypt: {
       rules: {
         '/article/6u4ze29u/': 'fuckCCF_killNC20061226_i0wu0593',
-        '/article/xe852mtw/': 'fuckCCF_killwangzc2012_vwx46lrb',
       },
     },
 
