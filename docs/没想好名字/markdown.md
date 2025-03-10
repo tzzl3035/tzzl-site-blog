@@ -9,12 +9,11 @@ permalink: /article/2usip6o0/
 ```cpp
 #include <bits/stdc++.h>
 
-using u32 = unsigned int;
-using i64 = long long;
-using u64 = unsigned long long;
-using f64 = double;
-using pii = std::pair<int, int>;
-using pll = std::pair<i64, i64>;
+using uui = unsigned int;
+using lli = long long;
+using uli = unsigned long long;
+using ddf = double;
+using ldf = long double;
 
 int main() {
   std::ios::sync_with_stdio(0);
